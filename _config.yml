@@ -1,0 +1,28 @@
+name: 2tonephotography
+favicon: null
+layout_spectrum: 0.02859311131760478
+typography_spectrum: 0.4584283670410514
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7129699541255832
+  lightness: 0.17233204119838774
+  saturation: 0.9565689568407834
+  rhythmicContrast: 0.23653402272611856
+purpose: []
